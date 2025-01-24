@@ -1,4 +1,6 @@
 KINO Rotterdam is a movie theater that has a great selection of movies, both old and new, and they work with the film festival. https://kinorotterdam.nl/
 De Dolan is a nice cultural center, with music, art expositions, and movies. https://www.dedoelen.nl/
 
+Add something for feature branch.
 Add something about the cafe Nov 8. My favourite place to relax in Hamburg is reading a good book on a bench in teh Stadtpark
+
